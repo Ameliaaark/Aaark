@@ -34,7 +34,7 @@
 - Terdapat 6 negara yang memiliki skor diatas rata-rata _happiness score_ yaitu Czechia, Romania, Slovakia, Poland, Hungary, Moldova
 - Terdapat 3 negara yang memiliki skor dibawah rata-rata _happiness score_ yaitu Russia, Bulgaria, Ukraine
 
-## ANALISIS NEGARA DENGAN _HAPPINESS SCORE_ TERTINGGI PADA SETIAP WILAYAH DI EROPA
+## ANALISIS TOP COUNTRY PADA SETIAP WILAYAH DI EROPA
 <img src = 'https://github.com/Ameliaaark/Happiness-Score-in-Europe-Continent/blob/main/NegaraHapScTinggiEropa.png'>
 
 ### **INSIGHT**
@@ -44,7 +44,7 @@
 - Slovenia berada di urutan terakhir dengan skor 6.63 dan menempati Rank 22
 - Seluruh negara tersebut berada di atas rata-rata _happiness score_ dan berada pada 30 besar negara teratas dengan _happiness score_ tinggi
 
-## ANALISIS NEGARA DENGAN _HAPPINESS SCORE_ TERTINGGI BERDASARKAN FAKTOR _HAPPINESS SCORE_ PADA SETIAP WILAYAH DI EROPA
+## ANALISIS TOP COUNTRY BERDASARKAN FAKTOR _HAPPINESS SCORE_ PADA SETIAP WILAYAH DI EROPA
 <img src = 'https://github.com/Ameliaaark/Happiness-Score-in-Europe-Continent/blob/main/PerbandinganHapScEropa.png'>
 
 ### **INSIGHT**
@@ -52,7 +52,14 @@
 - Faktor _Explained by: Generosity_ di setiap wilayah cenderung lebih rendah dan yang paling rendah kecuali pada _Western_ dan _Northern_ _Europe_
 - Faktor Generosity, Freedom to make life choices, Healthy life expectancy, dan social support di setiap wilayah cenderung tidak memiliki perbedaan yang jauh
 
-## PERBANDINGAN FAKTOR _HAPPINESS SCORE_ PADA NEGARA DENGAN _HAPPINESS SCORE_ TERTINGGI DI _NORTHERN AND SOUTHERN EUROPE_
+## PERBANDINGAN _DYSTOPIA + RESIDUAL_ TOP COUNTRY PADA SETIAP WILAYAH DI EROPA
+<img src = 'https://github.com/Ameliaaark/Happiness-Score-in-Europe-Continent/blob/main/PerbandinganFaktorDystopiaResidualEropa.png'>
+
+### **INSIGHT**
+- Eropa Utara merupakan negara yang memiliki skor tertinggi, yaitu 28.6
+- Eropa Selatan merupakan negara yang memiliki skor terendah, yaitu 21.4
+
+## PERBANDINGAN FAKTOR _HAPPINESS SCORE_ PADA TOP COUNTRY DI _NORTHERN AND SOUTHERN EUROPE_
 <img src = 'https://github.com/Ameliaaark/Happiness-Score-in-Europe-Continent/blob/main/HapScNorthernSouthernEurope.png'>
 
 ### **INSIGHT**
