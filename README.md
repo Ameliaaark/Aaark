@@ -52,9 +52,10 @@
 - Faktor _Explained by: Generosity_ di setiap wilayah cenderung lebih rendah dan yang paling rendah kecuali pada _Western_ dan _Northern_ _Europe_
 - Faktor Generosity, Freedom to make life choices, Healthy life expectancy, dan social support di setiap wilayah cenderung tidak memiliki perbedaan yang jauh
 
-## ANALISIS FAKTOR _HAPPINESS SCORE Dystopia (1.83) + Residual_ PADA NEGARA DENGAN _HAPPINESS SCORE_ TERTINGGI SETIAP WILAYAH DI EROPA
-<img src = 'https://github.com/Ameliaaark/Happiness-Score-in-Europe-Continent/blob/main/PerbandinganFaktorDystopiaResidualEropa.png'>
+## PERBANDINGAN FAKTOR _HAPPINESS SCORE_ PADA NEGARA DENGAN _HAPPINESS SCORE_ TERTINGGI DI _NORTHERN AND SOUTHERN EUROPE_
+<img src = 'https://github.com/Ameliaaark/Happiness-Score-in-Europe-Continent/blob/main/HapScNorthernSouthernEurope.png'>
 
 ### **INSIGHT**
-- Eropa Utara memiliki skor yang lebih tinggi yaitu 28.6
-- Eropa Selatan memiliki skor terendah yaitu 21.4
+- Dystopia merupakan nilai tertinggi yang dimiliki oleh Finland dan Slovenia
+- Generosity merupakan nilai terendah  yang dimiliki oleh Finland dan Slovenia
+- Finland unggul di seluruh faktor _happiness scoree_ kecuali pada faktor _Generosity_
